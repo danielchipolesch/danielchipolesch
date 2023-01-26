@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @danielchipolesch
-- :student: I'm Bachelor of Business Administration with emphasis in Public Administration and also in Logistics.
-- :computer: I’m a Software Engineer undergraduate student (last year) and also I'm student in MBA in Systems Analysis and Project.
-- 👀 I’m interested in learning more about Clean Architecture.
-- 🌱 I’m currently learning Java with Spring Boot ecossystem & Restful API's.
-- 💞️ I’m looking to collaborate on open source projects that I can work on remotely in my spare time.
-- 📫 How to reach me: https://linktr.ee/danielchipolesch :point_left: Here you can find all my social media and contact me.
+# 👋 Hi, I’m Daniel Chipolesch
 
-<!---
-danielchipolesch/danielchipolesch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&width=800&lines=Here+are+some+of+my+projects+and+social+media.+I+hope+you+enjoy+!" alt="Typing SVG" /></a>
+</div>
+</br>
+<div>
+<a href="https://github.com/danielchipolesch">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielchipolesch&layout=compact&langs_count=10&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielchipolesch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+</br>
+<div>
+<a href="https://www.youtube.com/danielchipolesch" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/dev_danielchipolesch" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!-- <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
+<a href="https://www.linkedin.com/in/danielchipolesch" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contato@danielchipolesch"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<!--<a href="https://www.linkedin.com/in/danielchipolesch" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> -->
+<a href="https://linktr.ee/danielchipolesch" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
