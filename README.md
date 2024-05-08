@@ -1,7 +1,9 @@
 # 👋 Hi there, I’m Daniel Chipolesch
 
-## Main languages & Technologies
-### (Java | Spring Boot | AWS | SQL | Vue.js | Typescript | Javascript | HTML | CSS)
+## Languages & Technologies
+### ( Java | Spring Boot | AWS | SQL | Vue.js | Typescript | Javascript | HTML | CSS ) 🚀
+
+## Skills
 
 - 👩‍💻 Software Enginner @FAB
 - 🎓 Bachelor of Software Enginner @UNICESUMAR
