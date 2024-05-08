@@ -1,11 +1,15 @@
-# 👋 Hi, I’m Daniel Chipolesch
+# 👋 Hi there, I’m Daniel Chipolesch
+
+## Main languages & Technologies
+### (Java | Spring Boot | AWS | SQL | Vue.js | Typescript | Javascript | HTML | CSS)
+
+- 👩‍💻 Software Enginner @FAB
+- 🎓 Bachelor of Software Enginner @UNICESUMAR
+- 🎓 Postgraduate in Systems Analysis and Projects @PUC-Rio
+- 💡 Keep learning!
 
 <div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&width=800&lines=Here+are+some+of+my+projects+and+social+media.+I+hope+you+enjoy+!" alt="Typing SVG" /></a>
-</div>
-</br>
-<div>
-<a href="https://github.com/danielchipolesch">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielchipolesch&layout=compact&langs_count=10&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielchipolesch&show_icons=true&theme=dracula"/>
+<a href="https://github.com/danielchipolesch"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielchipolesch&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielchipolesch&show_icons=true&theme=dracula"/>
 </div>
