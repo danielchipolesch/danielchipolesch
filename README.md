@@ -5,7 +5,7 @@
 
 ## Skills
 
-- 👩‍💻 Software Enginner @FAB
+- 👩‍💻 Software Engineer @FAB
 - 🎓 Bachelor of Software Enginner @UNICESUMAR
 - 🎓 Postgraduate in Systems Analysis and Projects @PUC-Rio
 - 💡 Keep learning!
